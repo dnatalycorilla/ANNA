@@ -1,0 +1,823 @@
+/* AS_01 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+
+background: linear-gradient(180deg, #2CB4F6 0%, #00ABFF 100%);
+
+
+/* AS_02 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+
+background: linear-gradient(180deg, #2CB4F6 0%, #00ABFF 100%);
+
+
+/* AS_02 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+
+background: linear-gradient(180deg, #2CB4F6 0%, #00ABFF 100%);
+
+
+/* AS_03 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1 */
+
+
+position: relative;
+width: 375px;
+height: 773px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 470.75px;
+height: 244.5px;
+
+
+
+/* AS_04_1 */
+
+
+position: relative;
+width: 375px;
+height: 730px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_2 */
+
+
+position: relative;
+width: 375px;
+height: 801px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 241px;
+height: 1146px;
+
+
+
+/* AS_04_3 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 96px;
+height: 2045px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 53px;
+height: 936.5px;
+
+
+
+/* AS_04_4 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 954px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 850px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 850px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 850px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 850px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 850px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 1026px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 1028px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 1028px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 1028px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Modal 01 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 16px;
+gap: 4px;
+
+position: relative;
+width: 325px;
+height: 270px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 18px -6px rgba(24, 39, 75, 0.12), 0px 12px 42px -4px rgba(24, 39, 75, 0.12);
+border-radius: 16px;
+
+
+/* Modal 6 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 16px;
+gap: 4px;
+
+position: relative;
+width: 325px;
+height: 270px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 18px -6px rgba(24, 39, 75, 0.12), 0px 12px 42px -4px rgba(24, 39, 75, 0.12);
+border-radius: 16px;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 623.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 709.5px;
+
+
+
+/* Modal 7 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 16px;
+gap: 4px;
+
+position: relative;
+width: 325px;
+height: 227px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 18px -6px rgba(24, 39, 75, 0.12), 0px 12px 42px -4px rgba(24, 39, 75, 0.12);
+border-radius: 16px;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 796.5px;
+height: 458.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 269px;
+height: 151.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 103px;
+height: 1126px;
+
+
+
+/* Modal 4 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 16px;
+gap: 4px;
+
+position: relative;
+width: 245px;
+height: 236px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 18px -6px rgba(24, 39, 75, 0.12), 0px 12px 42px -4px rgba(24, 39, 75, 0.12);
+border-radius: 16px;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 158px;
+height: 1426.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 185px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 735px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 53px;
+height: 2817px;
+
+
+
+/* Modal 02 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 383.5px;
+height: 1182px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 582px;
+
+
+
+/* Modal 9 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+
+
+/* Modal 10 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 494.15px;
+height: 344.75px;
+
+
+
+/* Modal 5 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 851px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 851px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 851px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_1_1 */
+
+
+position: relative;
+width: 375px;
+height: 720px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 347px;
+height: 300px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 382.5px;
+height: 392px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 217px;
+height: 246.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 362.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 88px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 383.5px;
+height: 16px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 383.5px;
+height: 81.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 0px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 69px;
+height: 906px;
+
+
+
+/* AS_05_4 */
+
+
+position: relative;
+width: 375px;
+height: 1187px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_3 */
+
+
+position: relative;
+width: 375px;
+height: 1084px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* AS_04_1_2 */
+
+
+position: relative;
+width: 375px;
+height: 1084px;
+overflow-y: scroll;
+
+background: #FAFAFC;
+
+
+/* Connector line */
+
+
+position: relative;
+width: 52px;
+height: 1345px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 102px;
+height: 2560px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 133px;
+height: 3877px;
+
+
+
+/* Type */
+
+
+position: relative;
+width: 301.75px;
+height: 1694px;
+
+
+
+/* Record */
+
+
+position: relative;
+width: 469.25px;
+height: 532px;
+
+
+
+/* Connector 55 */
+
+
+position: relative;
+width: 421.17px;
+height: 430px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 53px;
+height: 842.5px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 53px;
+height: 348.5px;
+
+
+
+/* Connector 63 */
+
+
+position: relative;
+width: 1406.5px;
+height: 471px;
+
+
+
+/* Frame 100 */
+
+
+position: relative;
+width: 375px;
+height: 112px;
+
+
+
+/* Connector line */
+
+
+position: relative;
+width: 192px;
+height: 478px;
+
