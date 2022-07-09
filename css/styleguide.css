@@ -1,0 +1,17 @@
+:root { 
+  --black: #000000;
+  --river-bed: #454d61;
+ 
+  --font-size-m: 16px;
+ 
+  --font-family-gilroy-medium-☞: "Gilroy-Medium-☞", Helvetica;
+  --font-family-gilroy-regular-regular: "Gilroy-Regular-Regular", Helvetica;
+  --font-family-gilroy-regular-☞: "Gilroy-Regular-☞", Helvetica;
+}
+.gilroy-regular--normal-river-bed-16px {
+  color: var(--river-bed);
+  font-family: var(--font-family-gilroy-regular-☞);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,107 @@
+/* screen - modal-4 */
+
+.modal-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 730px;
+  min-width: 375px;
+}
+
+#overlay-modal-4 {
+  background-color: transparent;
+}
+
+.overlay .modal-4 {
+  background-color: #00000000;
+}
+
+.modal-4 .modal-4-1 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  min-height: 236px;
+  width: 245px;
+}
+
+.modal-4 .frame-33625 {
+  align-items: center;
+  display: flex;
+  height: 44px;
+  min-width: 245px;
+  padding: 0 10px;
+}
+
+.modal-4 .interface-edit-zoom {
+  height: 24px;
+  width: 24px;
+}
+
+.modal-4 .d {
+  color: transparent;
+  font-family: var(--font-family-gilroy-regular-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 10px;
+  min-height: 19px;
+  min-width: 20px;
+}
+
+.modal-4 .span0 {
+  color: var(--river-bed);
+}
+
+.modal-4 .span1 {
+  color: #2cb4f6;
+}
+
+.modal-4 .line-6 {
+  height: 1px;
+  margin-top: 4px;
+  width: 245px;
+}
+
+.modal-4 .frame-33621 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-top: 3px;
+  min-width: 245px;
+  padding: 9px 10px;
+}
+
+.modal-4 .da {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.modal-4 .frame-3362 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  margin-top: 4px;
+  min-width: 245px;
+  padding: 9px 10px;
+}
+
+.modal-4 .dev {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.modal-4 .name {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.modal-4 .name-1 {
+  letter-spacing: 0;
+  min-height: 19px;
+}
